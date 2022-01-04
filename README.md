@@ -4,5 +4,5 @@
 # Команды и права:
 * /ibowhp reload - перезапустить плагин (ibowhp.admin).
 
-![Alt-текст](https://github.com/MishaNeYT/IndicatorBowHP/blob/main/IndicatorBow%20Image%201.png)
-![Alt-текст](https://github.com/MishaNeYT/IndicatorBowHP/blob/main/IndicatorBow%20Image%202.png)
+![Alt-текст](https://github.com/MishaNeYT/IndicatorBowHP/blob/main/images/1.png)
+![Alt-текст](https://github.com/MishaNeYT/IndicatorBowHP/blob/main/images/2.png)
