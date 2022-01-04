@@ -1,0 +1,7 @@
+name: IndicatorBowHP
+version: '${project.version}'
+main: ru.mishaneyt.indicator.Main
+authors: [ MishaNeYT ]
+commands:
+  ibowhp:
+    description: Релоад конфига.
